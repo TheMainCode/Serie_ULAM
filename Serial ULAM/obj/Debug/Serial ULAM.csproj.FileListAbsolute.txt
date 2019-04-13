@@ -1,0 +1,7 @@
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\bin\Debug\Serial ULAM.exe.config
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\bin\Debug\Serial ULAM.exe
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\bin\Debug\Serial ULAM.pdb
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\obj\Debug\Serial ULAM.csprojAssemblyReference.cache
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\obj\Debug\Serial ULAM.csproj.CoreCompileInputs.cache
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\obj\Debug\Serial ULAM.exe
+E:\UTT\EjerciciosPOO\Serial ULAM\Serial ULAM\obj\Debug\Serial ULAM.pdb
